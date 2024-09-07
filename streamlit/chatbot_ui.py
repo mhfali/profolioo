@@ -85,12 +85,30 @@ def get_response_from_api(user_input):
 
   **Internship 1:** 
   * Project: HR Chatbot powered by ChatGPT
-  * Technologies: Python, Rest API, OpenAI API, Git, Docker, Bitbucket, Jira, Agile methodology, Transformers, TensorFlow, TensorFlow Serving, LangChain
+  * Technological Environment:
+  - Languages and Frameworks: Python, TensorFlow, Transformers
+  - APIs: OpenAI API, Rest API
+  - Machine Learning Models: Context Classification, Question
+  - Classification
+  - Deployment: Docker, TensorFlow Serving
+  - Version Control: Git, Bitbucket
+  - Project Management: Jira, Agile Methodology
+  - Libraries: LangChain
+
   * Developed: An application for the chatbot and two machine learning models (one for context classification and another for question classification).
 
   **Internship 2:**
   * Project: Qatar Open Data Portal Application
-  * Technologies: Python, Rest API, OpenAI API, Git, Docker, Bitbucket, Jira, Agile methodology, Transformers, TensorFlow, LangChain, Gemini API, JavaScript, React, Flask, PostgreSQL
+  * Technological Environment:
+ - Frontend: React, JavaScript
+ - Backend: Flask, PostgreSQL Database
+ - APIs: OpenAI API, Gemini API, Rest API
+ - Machine Learning Models: Domain Classification, Question Classification
+ - Languages and Frameworks: Python, TensorFlow, Transformers
+ - Deployment: Docker
+ - Version Control: Git, Bitbucket
+ - Project Management: Jira, Agile Methodology
+Libraries: LangChain
   * Developed: An application, a chatbot, and two machine learning models (one for domain classification and another for question classification).
   * Designed UI/UX: using React for the frontend and Flask for the backend with a PostgreSQL database. 
 
