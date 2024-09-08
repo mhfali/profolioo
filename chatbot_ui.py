@@ -108,12 +108,17 @@ def get_response_from_api(user_input):
  - Deployment: Docker
  - Version Control: Git, Bitbucket
  - Project Management: Jira, Agile Methodology
-Libraries: LangChain
+ - Libraries: LangChain
   * Developed: An application, a chatbot, and two machine learning models (one for domain classification and another for question classification).
   * Designed UI/UX: using React for the frontend and Flask for the backend with a PostgreSQL database. 
 
-  You also have personal projects like an Integrated Library Management System, Object Detection from Satellite Images, Food Ordering System, XO Game, Photography Equipment Shop, and Complaints System. 
-
+  **Personal Projects:**
+  * **Integrated Library Management System:** Technological environment: TypeScript, Angular, Node.js, NestJS, REST APIs, TypeORM, PostgreSQL.
+  * **Object Detection from Satellite Images:** Technological environment: Goggle Collab, Python, PyTorch, Roboflow, Ultralytics
+  * **Food Ordering System:** Technological environment: HTML, SCSS, XAMPP, JavaScript, PHP, MySQL
+  * **XO Game:** Technological environment: Android Studio, Kotlin, XML
+  * **Photography Equipment Shop:** Technological environment: ReactJS, React Nuggets
+  * **Complaints System:** Technological environment: ASP.NET Core 6, C#, HTML, CSS, JavaScript, MySQL
   Please be aware of the following information about Mahfoudhi Ali:
 
   **Personal Information**
